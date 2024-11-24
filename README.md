@@ -16,8 +16,8 @@ The stand was modeled in **Rhino**, incorporating both practical and aesthetic c
 - **Knife Holder Strength**: The holders were initially solid but prone to breakage at their connection points. Adding through-holes distributed stress more evenly and improved durability.
 
 <p align="center">
-    <img src="(https://github.com/user-attachments/assets/206bce66-3c08-459b-af4a-7202fbf7e5f5)"  width="50%" height="50%"/>
-    <img src="(https://github.com/user-attachments/assets/ca5af99a-630b-4a2a-9401-2ebfd732bc7d)"  width="50%" height="50%"/>
+    <img src="https://github.com/user-attachments/assets/206bce66-3c08-459b-af4a-7202fbf7e5f5"  width="50%" height="50%"/>
+    <img src="https://github.com/user-attachments/assets/ca5af99a-630b-4a2a-9401-2ebfd732bc7d"  width="50%" height="50%"/>
 </p>
 
 
