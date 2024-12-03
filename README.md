@@ -36,11 +36,13 @@ The optimized design was printed on a **Prusa 3D printer** using **PrusaSlicer**
 ## 📸 Final Result
 
 The final product is a robust and functional hanging stand that can hold multiple utility knives and blade packs securely. It’s ideal for workshops, offices, or hobby spaces where organization and accessibility are key. The updated design ensures material efficiency and long-term durability.
-
-<div align="center">
-📷 Photo of the Finished Stand:
-
-</div>
+<p align="center">
+📷 Photo of the Finished Stand:   
+</p>
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/a0e6017c-3f42-4439-9367-02f937842a32"  width="50%" height="50%"/>
+    <img src="https://github.com/user-attachments/assets/7ba2a62d-5a4b-49a4-b787-d8d6f314744c"  width="50%" height="50%"/>
+</p>
 
 ---
 
